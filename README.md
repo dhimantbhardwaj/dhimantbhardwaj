@@ -19,7 +19,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: dhimantbhardwaj@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/dhimant-bhardwaj-1685032a0
+- 🔗 LinkedIn: https://www.linkedin.com/in/dhimantbhardwaj/
 
 ---
 
