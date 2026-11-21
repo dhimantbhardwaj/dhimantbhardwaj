@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 2025 Learning Goals
+## 🧠 2026 Learning Goals
 
 - Master DSA (Leetcode, Codeforces)
 - Build and deploy ML projects
